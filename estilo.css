@@ -1,0 +1,15 @@
+header{
+    background-color: aquamarine;
+    height: 100px;
+}
+nav{
+    background-color: rgb(65, 156, 241);
+}
+.imagen{
+    transform: rotate(90deg);
+    width: 100px;
+    height: 80px;;
+    margin: 20px;
+    border: 02px solid blue;
+}
+
